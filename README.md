@@ -17,15 +17,15 @@ Interested in the foundations and applications of ML — from the mathematical p
 
 - **[Diffractive Deep Neural Network (D2NN)](https://github.com/rknzhl/D2NN)**  
   All-optical inference via Rayleigh–Sommerfeld wave propagation. Physics-informed phase-mask initialisation using the Gerchberg–Saxton algorithm.  
-  `Winner — MIPT General Project Competition`
+  `Winner — General Project Competition`
 
 - **[Spin Glasses & Neural Networks](https://github.com/rknzhl/spin_glass)**  
   Multilayer Sherrington–Kirkpatrick model as a theoretical framework for deep networks. Connects replica symmetry breaking with loss landscape geometry.  
-  ` Best Talk — 67th MIPT Scientific Conference`
+  ` Best Talk — 67th Scientific Conference`
 
 - **[Protein Folding](https://github.com/rknzhl/polymerization)**  
   Coarse-grained protein simulation via Monte Carlo sampling (Metropolis algorithm) with Lennard-Jones and harmonic potentials. Analysed thermodynamic observables including heat capacity and equilibrium bond geometry.  
-  `Winner — MIPT General Project Competition`
+  `Winner — General Project Competition`
 
 - **LLM Infrastructure** *(Industry)*  
   Secure local inference stack (vLLM + Ollama). Multi-agent document analysis pipeline. MLOps with Kubernetes orchestration.
