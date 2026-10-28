@@ -12,7 +12,7 @@ Interested in the foundations and applications of ML — from the mathematical p
 
 ### Projects
 
-- **[TEMPO: Regime-Aware Operator Learning with Locally Adapted POD Bases](https://github.com/intsystems/2026-Project-185)**  
+- **[Regime-Aware Operator Learning with Locally Adapted POD Bases](https://github.com/intsystems/2026-Project-185)**  
   *(in progress)*
 
 - **[Diffractive Deep Neural Network (D2NN)](https://github.com/rknzhl/D2NN)**  
